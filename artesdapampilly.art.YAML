@@ -1,0 +1,11 @@
+# Um arquivo .YAML é usado para exportar registros DNS a um domínio
+# gerenciado pelo Google Cloud. O formato é
+# exclusivo dos domínios do Google Cloud DNS.
+
+---
+kind: dns#resourceRecordSet
+name: _domainconnect.artesdapampilly.art.
+rrdatas:
+- connect.domains.google.com.
+ttl: 21600
+type: CNAME

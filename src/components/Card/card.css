@@ -1,0 +1,17 @@
+img {
+  width: 15rem;
+  height: 15rem;
+}
+
+.card {
+  display: flexbox;
+  align-items: center;
+  padding: 0.2rem;
+  border-radius: 5px;
+}
+
+.title,
+i {
+  font-size: 120%;
+  font-weight: 500px;
+}

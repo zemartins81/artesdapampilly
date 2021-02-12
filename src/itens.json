@@ -1,0 +1,180 @@
+{
+  "itens": [
+  {
+  "id": 1,
+  "title": "Arco Íris - Amábile",
+  "imagem": "./images/arco_iris_amabile.jpg",
+  "descricao":
+  "Arco-íris grande, em amigurumi, com letras de aproximadamente 15 cm, escrito Amabile em roxo"
+  },
+  {
+  "id": 2,
+  "title": "Arco Íris - Ana Júlia",
+  "imagem": "./images/arco_iris_ana_julia.jpg",
+  "descricao":
+  "Arco-íris médio, em amigurumi, com letras de aproximadamente 10 cm, escrito Ana Júlia em rosa"
+  },
+  {
+  "id": 3,
+  "title": "Arco Íris - Malu",
+  "imagem": "./images/arco_iris_malu.jpg",
+  "descricao":
+  "Arco-íris médio, em amigurumi, com letras de aproximadamente 10 cm, escrito Malu em amarelo"
+  },
+  {
+  "id": 4,
+  "title": "Baby Yoda",
+  "imagem": "./images/baby_yoda.jpg",
+  "descricao":
+  "Baby Yoda, em amigurumi, de aproximadamente 15 cm"
+  },
+  {
+  "id": 5,
+  "title": "Bolsa - Cor: Branca",
+  "imagem": "./images/bolsa_branca.jpg",
+  "descricao":
+  "Bolsa em crochê com fio de malha, na cor branca de aproximadamente 27 cm de diâmetro"
+  },
+  {
+  "id": 6,
+  "title": "Bolsa - Cor: Preta",
+  "imagem": "./images/bolsa_preta.jpg",
+  "descricao":
+  " Bolsa em crochê com fio de malha, na cor preta de aproximadamente 27 cm de diâmetro "
+  },
+  {
+  "id": 7,
+  "title": "Boneca - Flor",
+  "imagem": "./images/boneca_flor.jpg",
+  "descricao":
+  "Boneca que vira vaso ou vaso que vira boneca, em amigurumi, de aproximadamente 25 cm"
+  },
+  {
+  "id": 8,
+  "title": "Boneca - Morena",
+  "imagem": "./images/boneca_morena_grande.jpg",
+  "descricao":
+  "Boneca morena com cabelos cacheados, em amigurumi, de aproximadamente 35 cm"
+  },
+  {
+  "id": 9,
+  "title": "Boneca Saia Rodada",
+  "imagem": "./images/boneca_saia_rodada.jpg",
+  "descricao":
+  "Boneca de cabelos ondulados, em amigurumi, de aproximadamente 27 cm"
+  },
+  {
+  "id": 10,
+  "title": "Carteira - Cor: Azul",
+  "imagem": "./images/carteira.jpg",
+  "descricao":
+  "Carteira sem divisória, em crochê, de aproximadamente 15 cm"
+  },
+  {
+  "id": 11,
+  "title": "Chaveiro - Alfabeto: Letra F",
+  "imagem": "./images/chaveiro_alfabeto_f_vermelho.jpg",
+  "descricao":
+  "Chaveiro, em amigurumi, na letra F de aproximadamente 10 cm"
+  },
+  {
+  "id": 12,
+  "title": "Chaveiro - Alfabeto: Letra R",
+  "imagem": "./images/chaveiro_alfabeto_R_Preto.jpg",
+  "descricao":
+  " Chaveiro, em amigurumi, na letra R de aproximadamente 10 cm "
+  },
+  {
+  "id": 13,
+  "title": "Chaveiro - Cactus",
+  "imagem": "./images/chaveiro_cactus.jpg",
+  "descricao":
+  "Chaveiro de cactos, em amigurumi, de aproximadamente 7 cm"
+  },
+  {
+  "id": 14,
+  "title": "Chaveiro - Enfermeira",
+  "imagem": "./images/chaveiro_enfermeira.jpg",
+  "descricao":
+  "Chaveiro de Enfermeira, em amigurumi, de aproximadamente 20 cm"
+  },
+  {
+  "id": 15,
+  "title": "Chaveiro - Enfermeiro",
+  "imagem": "./images/chaveiro_enfermeiro.jpg",
+  "descricao":
+  " Chaveiro de Enfermeiro, em amigurumi, de aproximadamente 20 cm "
+  },
+  {
+  "id": 16,
+  "title": "Chaveiro - Harry",
+  "imagem": "./images/chaveiro_harry.jpg",
+  "descricao":
+  "Chaveiro Harry Potter, em amigurumi, de aproximadamente 10 cm"
+  },
+  {
+  "id": 17,
+  "title": "Chaveiro - Hermione",
+  "imagem": "./images/chaveiro_hermione.jpg",
+  "descricao":
+  " Chaveiro Hermione Granger, em amigurumi, de aproximadamente 10 cm "
+  },
+  {
+  "id": 18,
+  "title": "Chaveiro - Rony",
+  "imagem": "./images/chaveiro_rony.jpg",
+  "descricao":
+  " Chaveiro Rony Weasley, em amigurumi, de aproximadamente 10 cm "
+  },
+  {
+  "id": 19,
+  "title": "Chaveiro - Nuvem",
+  "imagem": "./images/chaveiro_nuvem.jpg",
+  "descricao":
+  "Chaveiro nuvem, em amigurumi, de aproximadamente 10 cm"
+  },
+  {
+  "id": 20,
+  "title": "Chaveiro - Sorvete",
+  "imagem": "./images/chaveiro_sorvete.jpg",
+  "descricao":
+  "Chaveiro sorvete, com duas bolas, em amigurumi, de aproximadamente 12 cm"
+  },
+  {
+  "id": 21,
+  "title": "Chaveiro - Ratinho",
+  "imagem": "./images/chaveiro_rato.jpg",
+  "descricao":
+  "Chaveiro de ratinho, em amigurumi, de aproximadamente 6 cm"
+  },
+  {
+  "id": 22,
+  "title": "Nossa Senhora Aparecida",
+  "imagem": "./images/santas.jpg",
+  "descricao":
+  "Nossa Senhora Aparecida, em amigurumi, diversas cores e contendo um rosário de miçangas brancas, de aproximadamente 20 cm"
+  },
+  {
+  "id": 23,
+  "title": "Familia Simpsons",
+  "imagem": "./images/simpsons.jpg",
+  "descricao":
+  "Simpsons (Homer, Marge, Bart, Lisa e Maggie), em amigurumi, de aproximadamente 10 cm"
+  },
+  {
+  "id": 24,
+  "title": "Games - Yoshi",
+  "imagem": "./images/yoshi.jpg",
+  "descricao":
+  "Yoshi, em amigurumi, de aproximadamente 25 cm"
+  },
+  {
+  "id": 25,
+  "title": "Biquini",
+  "imagem": "./images/biquini01.jpg",
+  "descricao":
+  "Parte de cima do biquini, em crochê, na cor multicolor verde"
+  }
+  ]
+  }
+  
